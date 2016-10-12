@@ -1,0 +1,12 @@
+VisionSensor
+Server
+.
+/usr/
+
+/usr/aris2/include
+/usr/xenomai/include
+/opt/etherlab/include
+/usr/Robots2/include
+/usr/include/eigen3
+/usr/local/include/pcl-1.8
+/usr/local/include/libfreenect2
